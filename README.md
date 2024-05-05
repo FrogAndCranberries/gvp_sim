@@ -1,18 +1,20 @@
-POPIS SLOEK
+# A simple Czech android choice-based campaign game developed as a high school project with Vlada Horky of [Sawdust Studios](https://github.com/sawduststudios)
 
-Soubor pubspec.yaml slouí k importování assetù a packagù do aplikace.
+POPIS SLOÅ½EK
 
-Ve sloce res jsou soubory s ikonou aplikace.
+Soubor pubspec.yaml slouÅ¾Ã­ k importovÃ¡nÃ­ assetÅ¯ a packagÅ¯ do aplikace.
 
-Sloka lib:
+Ve sloÅ¾ce res jsou soubory s ikonou aplikace.
 
-Sloka database obsahuje soubory moor_database.dart. 
-Z nìho se pomocí package moor automaticky generuje soubor 
-moor_database.g.dart pomocí source generation.
-dataStorage.dart obsahuje data aplikace, jako napøíklad rozhovory a schopnosti (ty se na zaèátku nahrají do databáze)
+SloÅ¾ka lib:
 
-Ve sloce theme_stuff jsou soubory, kde se definují a ovládají barevná schémata aplikace.
+SloÅ¾ka database obsahuje soubory moor_database.dart. 
+Z nÄ›ho se pomocÃ­ package moor automaticky generuje soubor 
+moor_database.g.dart pomocÃ­ source generation.
+dataStorage.dart obsahuje data aplikace, jako napÅ™Ã­klad rozhovory a schopnosti (ty se na zaÄÃ¡tku nahrajÃ­ do databÃ¡ze)
 
-Zbylé dart soubory obsahují jednotlivé stránky aplikace a datové classy.
+Ve sloÅ¾ce theme_stuff jsou soubory, kde se definujÃ­ a ovlÃ¡dajÃ­ barevnÃ¡ schÃ©mata aplikace.
 
-Ve sloce images jsou images.
+ZbylÃ© dart soubory obsahujÃ­ jednotlivÃ© strÃ¡nky aplikace a datovÃ© classy.
+
+Ve sloÅ¾ce images jsou images.
